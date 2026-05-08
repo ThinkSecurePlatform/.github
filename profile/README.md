@@ -1,9 +1,50 @@
-ThinkSecure est un cabinet pureplayer en cybersécurité fondé en 2026. Nous sécurisons vos actifs en transformant vos vulnérabilités en boucliers technologiques, en nous appuyant sur les référentiels et guides d'hygiène de l'ANSSI.
+<div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 30px;">
 
-Notre expertise s'articule autour de deux piliers stratégiques :
+<img src="assets/logo.png"
+       width="100"
+       height="100"
+       style="border-radius: 15px;" />
 
-Intégration de solution cyber : Sélection et configuration des meilleures solutions (SIEM, EDR/XDR, IAM, Firewall) pour une infrastructure résiliente.
+# ThinkSecure
 
-Audit & Pentest : Évaluation de la robustesse de vos systèmes en conditions réelles avec un plan d'action immédiat et priorisé.
+</div>
 
-Grâce à un interlocuteur unique et un suivi de l'analyse à la remédiation, nous sécurisons votre activité tout en boostant votre crédibilité. Pour une TPE ou PME, transformer la sécurité en gage de confiance est aujourd'hui votre meilleur avantage concurrentiel.
+ThinkSecure Cabinet de cybersécurité spécialisé dans l’audit, le pentest et l’intégration de solutions de sécurité.
+
+Nous aidons les organisations à transformer leurs vulnérabilités en véritables boucliers de protection, en nous appuyant sur les référentiels et guides d’hygiène de l’ANSSI.
+
+---
+
+## 🔐 Expertise
+
+### 🛠️ Intégration de solutions de cybersécurité
+
+Nous sélectionnons et déployons les meilleures solutions pour renforcer votre infrastructure :
+
+- SIEM
+- EDR / XDR
+- IAM
+- Firewalls
+
+Objectif : une infrastructure robuste, surveillée et résiliente.
+
+---
+
+### 🔍 Audit & Pentest
+
+Nous évaluons la sécurité de vos systèmes en conditions réelles afin d’identifier les failles et proposer un plan d’action clair, priorisé et directement exploitable.
+
+---
+
+## 🧭 Approche
+
+Nous fonctionnons avec un interlocuteur unique, de l’analyse jusqu’à la remédiation.
+
+Notre objectif : sécuriser vos systèmes tout en renforçant la confiance de vos clients et partenaires.
+
+---
+
+## ⭐ Valeur ajoutée
+
+Pour une TPE ou PME, la cybersécurité n’est plus un coût :  
+c’est un levier de crédibilité et de différenciation sur votre marché.
