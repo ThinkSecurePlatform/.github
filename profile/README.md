@@ -1,13 +1,11 @@
-<div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 30px;">
+<h1 align="center">
+  <img src="assets/logo.png" width="100" height="100" style="border-radius: 15px;" align="center" />
+  &nbsp;<span>ThinkSecure</span>
+</h1>
 
-<img src="assets/logo.png"
-       width="100"
-       height="100"
-       style="border-radius: 15px;" />
 
-# ThinkSecure
+<br />
 
-</div>
 
 ThinkSecure Cabinet de cybersécurité spécialisé dans l’audit, le pentest et l’intégration de solutions de sécurité.
 
